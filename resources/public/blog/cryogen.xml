@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version='2.0' xmlns:atom='http://www.w3.org/2005/Atom'>
+<channel>
+<atom:link href='http://ryanorsinger.com' rel='self' type='application/rss+xml'/>
+<generator>
+clj-rss
+</generator>
+<title>
+My Awesome Blog
+</title>
+<link>
+http://ryanorsinger.com
+</link>
+<description>
+This blog is awesome
+</description>
+<lastBuildDate>
+Tue, 20 Jan 2015 06:25:22 -0600
+</lastBuildDate>
+<author>
+Ryan Orsinger
+</author>
+<item>
+<guid>
+http://ryanorsinger.com/blog/posts/13-11-2014-docs.html
+</guid>
+<link>
+http://ryanorsinger.com/blog/posts/13-11-2014-docs.html
+</link>
+<title>
+Using Cryogen
+</title>
+<author>
+Ryan Orsinger
+</author>
+</item>
+</channel>
+</rss>
